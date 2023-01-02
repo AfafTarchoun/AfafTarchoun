@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/AfafTarchoun/AfafTarchoun/blob/main/src/Banner.gif"/>
+<img width="100%" alt="Developer Illustration" src="./src/Banner.gif"/>
 
 ## Hi There, Welcome to my GitHub profile! 👋🏻
 
