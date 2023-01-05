@@ -3,7 +3,7 @@
 
 ## Hi There, Welcome to my GitHub profile! 👋🏻
 
-<a href="https://linkedin.com/" target="_blank">
+<a href="https://[linkedin.com/](https://www.linkedin.com/in/afaf-tarchoun-13299b212/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/" target="_blank">
