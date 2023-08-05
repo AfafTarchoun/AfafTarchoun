@@ -37,6 +37,8 @@ Ask me anything **[here](https://github.com/AfafTarchoun/AfafTarchoun/issues/new
 <br />
 <br />
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,vuejs,git,bash,docker,vim)](#)
+
 **Happy Coding!** 😊
 
 </div>
