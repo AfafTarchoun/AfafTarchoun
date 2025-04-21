@@ -24,14 +24,11 @@ Ask me anything **[here](https://github.com/AfafTarchoun/AfafTarchoun/issues/new
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AfafTarchoun&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="AfafTarchoun's Github Stats">
-<br />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfafTarchoun&layout=compact&theme=dark&bg_color=0A0A0A" alt="AfafTarchoun's Top Languages"/>
 <br />
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,vuejs,git,bash,docker,vim)](#)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,flutter,nodejs,nestjs,c,cpp,js,html,css,vuejs,git,bash,docker,vim)](#)
 
 **Happy Coding!** 😊
 
